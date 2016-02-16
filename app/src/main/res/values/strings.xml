@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animal Voices Children\'s App</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtSplash">Animal Voices</string>
+    <string name="cow">Cows Image</string>
+    <string name="pig">Pigs Image</string>
+    <string name="farm">Farm Image</string>
+    <string name="btnCows">Listen to the cows</string>
+    <string name="btnPigs">Listen to the pigs</string>
+    <string name="title_activity_main">Play Sounds</string>
+</resources>
